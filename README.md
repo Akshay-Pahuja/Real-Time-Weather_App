@@ -38,7 +38,7 @@ This project is a Real-Time Weather Monitoring System built using React.js and M
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/21BCS035/Real-time-weather-monitoring.git
+   git clone https://github.com/Akshay-Pahuja/Real-Time-Weather_App.git
    cd weather-monitoring-system
    ```
 
